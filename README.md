@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhishek
 
-<!--
-**abhishektomar8798/abhishektomar8798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer building real things with code.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Aspiring Software Engineer (Backend)
+* Working with Java, Spring Boot, and Python
+* Focused on Data Structures & Algorithms (DSA)
+* Interested in scalable systems and backend development
+
+## Tech Stack
+
+* Languages: Java, Python, C
+* Backend: Spring Boot
+* Concepts: DSA, OOP
+* Web (basic): HTML, CSS, JavaScript
+* Tools: IntelliJ IDEA, Git, GitHub, VS Code
+
+## Current Focus
+
+* Building backend projects with Spring Boot
+* Solving DSA problems
+* Strengthening core fundamentals
